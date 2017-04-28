@@ -9,7 +9,7 @@ using Newtonsoft.Json;
 
 namespace Replenisher
 {
-    [ApiVersion(1, 22)]
+    [ApiVersion(2, 00)]
     public class Replenisher : TerrariaPlugin
     {
         private static readonly int TIMEOUT = 100000;
